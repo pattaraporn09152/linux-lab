@@ -1,6 +1,6 @@
 # pattaraporncli
 
-My Tool does one thing, and one thing well.
+:
 
 
 # Installation

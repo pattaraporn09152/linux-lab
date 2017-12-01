@@ -1,5 +1,5 @@
 """
-My Tool does one thing, and one thing well.
+:
 """
 from setuptools import find_packages, setup
 
@@ -12,7 +12,7 @@ setup(
     license='BSD',
     author='pattaraporn',
     author_email='pattaraporn.in.59@ubu.ac.th',
-    description='My Tool does one thing, and one thing well.',
+    description=':',
     long_description=__doc__,
     packages=find_packages(exclude=['tests']),
     include_package_data=True,
