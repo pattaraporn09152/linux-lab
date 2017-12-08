@@ -1,21 +1,9 @@
-# pattaraporncli
-
-:
-
-
-# Installation
-
-If you don't use `pipsi`, you're missing out.
-Here are [installation instructions](https://github.com/mitsuhiko/pipsi#readme).
-
-Simply run:
-
-    $ pipsi install .
-
-
-# Usage
-
-To use it:
-
-    $ pattaraporncli --help
-
+#วิธีการใช้งาน
+git clone https://github.com/pattaraporn09152/linux-lab.git
+cd linux-lab
+cd linux-cli
+cd pattaraporn09152
+pip install -U --user .
+pattaraporncli Fast8
+#สามารถของโปรเจค
+สามารถดึงรูปภาพโปสเตอร์มาโชว์ ของภาพยนตร์ดังเรื่อง Fast & Furious 8 
